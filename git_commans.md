@@ -4,18 +4,18 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: clona un archivo del repositorio
 
-git pull:
+git pull: revisa y combina commits de un repositorio remoto a uno local
 
-git checkout:
+git checkout:cambia de rama 
 
-git log:
+git log: muestra un registro de los commit en la rama actual 
 
-git branch:
+git branch: crea una rama
 
-git add:
+git add:Agrega los cambios al staging area
 
-git commit:
+git commit: confirma los cambios del proyecto 
 
-git push:
+git push: envia los cambios del repositorio local al remoto
 
-git merge:
+git merge:combina una rama con otra 
