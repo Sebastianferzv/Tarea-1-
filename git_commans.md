@@ -4,7 +4,7 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 AAAAAAAAAAAAAAAAAAAAA
 git clone: clona un archivo del repositorio
 
-git pull:
+git pull: castaña castaña
 
 git checkout:
 
